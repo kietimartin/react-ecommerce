@@ -8,7 +8,7 @@ const Home = () => {
     <div className="page">
       <div className="home-hero">
         <h1 className="home-title">Welcome to ShopHub</h1>
-        <p className="homesubtitle">
+        <p className="home-subtitle">
           Discover amazing products at great prices.
         </p>
       </div>
