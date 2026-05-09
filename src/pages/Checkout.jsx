@@ -2,7 +2,9 @@
 
 const checkout = () => {
   return (
-    <div>checkout</div>
+    <div className="page">
+
+    </div>
   )
 }
 
